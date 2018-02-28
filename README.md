@@ -36,6 +36,10 @@ cd dotfiles
 ./setup.sh
 </pre>
 
+<pre>
+https://raw.githubusercontent.com/yuyu1023/dotfiles/master/setup.sh
+</pre>
+
 
 ## アプリ、コマンドを入手する為のソース
 
