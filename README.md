@@ -30,7 +30,11 @@
 
 ## インストールコマンド
 <pre>
-コマンドをここに記載
+curl https://github.com/yuyu1023/dotfiles/blob/master/setup.sh | bash
+又
+git clone https://github.com/yuyu1023/dotfiles/
+cd dotfiles
+./setup.sh
 </pre>
 
 
