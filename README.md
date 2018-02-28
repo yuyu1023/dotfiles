@@ -31,7 +31,9 @@
 ## インストールコマンド
 <pre>
 curl https://github.com/yuyu1023/dotfiles/blob/master/setup.sh | bash
-又
+</pre>
+又は
+<pre>
 git clone https://github.com/yuyu1023/dotfiles/
 cd dotfiles
 ./setup.sh
