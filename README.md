@@ -37,7 +37,7 @@ cd dotfiles
 </pre>
 
 <pre>
-https://raw.githubusercontent.com/yuyu1023/dotfiles/master/setup.sh
+bash -c "$(curl -L raw.githubusercontent.com/yuyu1023/dotfiles/master/setup.sh
 </pre>
 
 
