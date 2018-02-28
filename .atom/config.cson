@@ -1,0 +1,15 @@
+"*":
+  core:
+    disabledPackages: [
+      "vim-mode-plus-ex-mode"
+    ]
+    themes: [
+      "slack-ui"
+      "tango-syntax"
+    ]
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "fbe4077f-c87b-45c6-bf27-dda624fee94a"
+  "vim-mode-plus-ex-mode":
+    notifiedUseExMode: true

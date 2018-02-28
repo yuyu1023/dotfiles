@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+        "spec": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/apm-install-dir-117616-24239-1myy4k7.kt31cvunmi"
+    ]
+  ],
+  "_from": "../d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+  "_id": "tango-syntax@0.5.0",
+  "_inCache": true,
+  "_location": "/tango-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+    "spec": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+  "_shasum": "2d856043d602f1f418dd058399b4b52566bf8c07",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/d-117616-24239-1g4fliq.4co50cnmi/package.tgz",
+  "_where": "/private/var/folders/rc/q7m5shmn6xq90yp0y7p944kc0000gn/T/apm-install-dir-117616-24239-1myy4k7.kt31cvunmi",
+  "bugs": {
+    "url": "https://github.com/ocoras/tango-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A syntax theme created using the Tango Project Colour Palette",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ocoras/tango-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "tango"
+  ],
+  "license": "MIT",
+  "name": "tango-syntax",
+  "optionalDependencies": {},
+  "readme": "# tango-syntax theme\n\nA syntax theme created using the [Tango Project Colour Palette](https://en.wikipedia.org/wiki/Tango_Desktop_Project).\n\n![Screenshot](https://raw.githubusercontent.com/Ocoras/tango-syntax/master/tango-syntax.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocoras/tango-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.5.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
