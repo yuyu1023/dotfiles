@@ -16,6 +16,7 @@
 - Mamp
 - Sublime
 - docker
+- atom
 
 ## 開発に必要なコマンド
 
@@ -29,10 +30,6 @@
 
 
 ## インストールコマンド
-<pre>
-curl https://github.com/yuyu1023/dotfiles/blob/master/setup.sh | bash
-</pre>
-又は
 <pre>
 git clone https://github.com/yuyu1023/dotfiles/
 cd dotfiles
