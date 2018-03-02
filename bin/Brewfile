@@ -15,6 +15,7 @@ cask "iterm2"
 cask "atom"
 cask "jetbrains-toolbox"
 cask "skype"
+cask "emacs"
 
 brew "docker"
 cask "docker"
