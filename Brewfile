@@ -1,0 +1,21 @@
+# Brewfile
+cask_args appdir: "/Applications"
+tap "caskroom/cask"
+tap "homebrew/bundle"
+tap "homebrew/core"
+
+cask "google-chrome"
+cask "slack"
+cask "github"
+brew "git"
+brew "vim"
+brew "zsh"
+brew "zsh-completions"
+cask "iterm2"
+cask "atom"
+cask "jetbrains-toolbox"
+cask "skype"
+cask "emacs"
+
+brew "docker"
+cask "docker"
