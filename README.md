@@ -13,10 +13,11 @@ cd dotfiles
 ./setup.sh
 </pre>
 
-###必要なアプリのインストール
+### 必要なアプリのインストール
 <pre>
 cd ./bin
 brew bundle
+</pre>
 
 <pre>
 bash -c "$(curl -L raw.githubusercontent.com/yuyu1023/dotfiles/master/setup.sh
